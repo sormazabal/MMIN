@@ -4,6 +4,9 @@
 Created on Sat Jun  5 17:56:50 2021
 
 @author: zow
+
+Based on Professor Jihwan Myung's T-cell model in Mathematica and the equations 
+described in "T-cell model part 3"'
 """
 #%%
 import numpy as np
