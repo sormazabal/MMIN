@@ -148,9 +148,7 @@ I could not make the aTLR curve oscillate more than once using the binary output
 
 Ideally, I would include an equation in between Lps(t) and the aTLR differential equation in the form: 
 
-$$\dot x = \epsilon \left( x - \frac{1}{3} x^3\right) - y$$
-
-$$\dot y = x$$
+![18.png](18.png)
 
 With 0 < ϵ << 1. (Kanamaru, 2007)
 
