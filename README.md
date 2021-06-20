@@ -138,7 +138,9 @@ Inkn ≥ 0.1 and Onkn ≥ 0.5.
 
 ## 3. Comparison with the initial values
 
-[Initial values vs oscillation triggering values](https://www.notion.so/d6691232856341d9a4fd67fb69a40bc5)
+#Initial values vs oscillation triggering values
+
+![Initial values vs oscillation triggering values](17.png)
 
 ## 4. Conclusions
 
