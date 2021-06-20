@@ -52,7 +52,7 @@ I obtained:
 
 Now, using logarithmic scale:
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%201.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%201.png)
+![Untitled.png](./Untitled.png)
 
 ## 1.Ballpark estimates
 
