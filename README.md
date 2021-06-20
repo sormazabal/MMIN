@@ -48,11 +48,11 @@ The parameters for the initial values are mostly drawn from the "T-cell part 3" 
 
 I obtained:
 
-![Untitled.png](./Untitled.png)
+![0.png](./0.png)
 
 Now, using logarithmic scale:
 
-![Untitled1.png](./Untitled1.png)
+![1.png](./1.png)
 
 ## 1.Ballpark estimates
 
