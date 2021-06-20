@@ -58,53 +58,53 @@ Now, using logarithmic scale:
 
 When changing the parameter Cni from 0.1 to 0.01 it triggered an oscillational behavior in IK until it converges abruptly into a steady state.
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%202.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%202.png)
+![2.png](2.png)
 
 Cni = 0.1.
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%203.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%203.png)
+![3.png](3.png)
 
 Cni = 0.05 (The oscillatory behavior seems to start as one approaches 0.05 from the right side).
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%204.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%204.png)
+![4.png](4.png)
 
 Cni = 0.01.
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%205.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%205.png)
+![5.png](5.png)
 
 Cni = 0.001.
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%206.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%206.png)
+![6.png](6.png)
 
 Cni = 0.0001. (Surprisingly, this took my more than a minute to compute)
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%207.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%207.png)
+![7.png](7.png)
 
 Cni = 0.00001
 
 When setting Inkn to 0.001 it also triggered a small oscillation in the NKc concentration across time.
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%208.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%208.png)
+![8.png](8.png)
 
 But if I decrease Inkn to 0.0001 the NKc curve becomes nearly flat:
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%209.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%209.png)
+![9.png](9.png)
 
 But at Inkn = 0.0004 it is possible to see an increasing curve with an oscillatory pattern of low amplitude.
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%2010.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%2010.png)
+![10.png](10.png)
 
 Using Inkn = 0.01 the curve adopts an s-shape and becomes similar to a logistic growth curve with a high r (Weisstein, n.d.). 
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%2011.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%2011.png)
+![11.png](11.png)
 
 As Inkn's value approaches 0.0015 (from the left side) the oscillatory pattern becomes indistinguishable. For comparison:
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%2012.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%2012.png)
+![412.png](12.png)
 
 Inkn = 0.0011.
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%2013.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%2013.png)
+![13.png](13.png)
 
 Inkn = 0.0015.
 
@@ -118,17 +118,17 @@ IK: Cni ∈ (0, 0.0015, 0.6)
 
 For NKc  and IK the amplitude of the oscillation changed according to these patterns:
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%2014.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%2014.png)
+![14.png](14.png)
 
 NKc amplitude vs time at Inkn = 0.001.
 
 For NKc the system becomes less responsive if Oik ≤ 0.05.
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%2015.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%2015.png)
+![15.png](15.png)
 
 If Oik = 1000 and Ikn = 0.01 simultaneously, the curve shows one abrupt oscillation and then the sigmoidal curve behavior.
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%2016.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled%2016.png)
+![16.png](16.png)
 
 IK amplitude vs time at Cni = 0.001.
 
