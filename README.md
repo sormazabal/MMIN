@@ -48,11 +48,11 @@ The parameters for the initial values are mostly drawn from the "T-cell part 3" 
 
 I obtained:
 
-![4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled.png](4)%20T-cell%20model%204a959087ea1b4e44aa3dbaef18210016/Untitled.png)
+![Untitled.png](./Untitled.png)
 
 Now, using logarithmic scale:
 
-![Untitled.png](./Untitled.png)
+![Untitled1.png](./Untitled1.png)
 
 ## 1.Ballpark estimates
 
